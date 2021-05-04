@@ -1,0 +1,42 @@
+* {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  background-image: "spices.jpg";
+  box-sizing: border-box;
+}
+h2 {
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 10px;
+}
+h1 {
+  color: rgba(75, 106, 245, 0.705);
+  font-size: 60px;
+  font-family: -apple-system;
+  text-shadow: black;
+  margin-bottom: 20px;
+}
+p {
+  font-size: 30px;
+  text-align: center;
+}
+img {
+  height: 3in;
+  margin-top: 40px;
+  margin-bottom: 1in;
+  border-bottom: 5px dotted rgb(14, 6, 6);
+  padding-bottom: 100px;
+}
+h3 {
+  font-size: 25px;
+}
+em {
+  font-size: 30px;
+}
+.author {
+  font-size: 20px;
+  margin-top: 1px;
+  margin-left: 7in;
+  padding-top: 0px;
+}
